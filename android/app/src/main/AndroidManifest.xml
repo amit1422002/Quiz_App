@@ -3,6 +3,7 @@
         android:label="quizapp"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+       <!-- This should point to your custom application class -->
         <activity
             android:name=".MainActivity"
             android:exported="true"
