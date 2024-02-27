@@ -1,14 +1,6 @@
 # QuizApp
 
-
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I have Created A app where people can play Quiz
+There are 6 types of Quizes 
+There is also Admin panel In which Admin Can Add New Quiz for All.
+Please Watch QuizApp.mp4 for app preview
